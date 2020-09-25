@@ -5,8 +5,9 @@
 
 
 #### Name: Rishi
- -Place: Chennai
+ -Place: Chennai,India
  -Bio: Love to Contribute
  -GitHub:https://github.com/RishiDharshan
+
 
 
